@@ -131,12 +131,12 @@ Multi-language support
 Blockchain medical records
 
 
-<img width="1678" height="836" alt="Baby Dashboard" src="https://github.com/user-attachments/assets/fed7414e-bdab-4892-adb7-3980d68e2ca1" />
-<img width="1761" height="846" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/ab4e9664-7424-4794-947c-d684c56d5491" />
-<img width="1696" height="848" alt="Doctor Dashboard" src="https://github.com/user-attachments/assets/7db5d501-39a0-453f-81f2-94af62aafe2b" />
-<img width="1743" height="818" alt="Mother Dashboard" src="https://github.com/user-attachments/assets/2717a3b1-b5ec-4756-9801-3a3aeb40e9a3" />
-<img width="1024" height="846" alt="LMP Calculation" src="https://github.com/user-attachments/assets/17285473-7df4-49e1-b885-4e7e2e34c19c" />
-<img width="1405" height="841" alt="Login Screen" src="https://github.com/user-attachments/assets/cdb98481-979d-44f2-bc53-538627c6df15" />
+<img width="1678" height="836" alt="Baby Dashboard" src="https://github.com/user-attachments/assets/b7c6ec77-e1ab-47dc-9628-fdfd51870b2e" />
+<img width="1761" height="846" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/7cb06d5c-1e0f-4220-bece-b028ed7baaf0" />
+<img width="1696" height="848" alt="Doctor Dashboard" src="https://github.com/user-attachments/assets/67a38aa2-a244-46b3-bbf7-32addfa09661" />
+<img width="1743" height="818" alt="Mother Dashboard" src="https://github.com/user-attachments/assets/4a9d9f8f-59b7-42c3-a42f-ee4a3a193fa8" />
+<img width="1024" height="846" alt="LMP Calculation" src="https://github.com/user-attachments/assets/58a52999-5441-498e-ba6c-0f3634306717" />
+<img width="1405" height="841" alt="Login Screen" src="https://github.com/user-attachments/assets/9dd35c19-9cf3-43ba-9464-17f1dc113789" />
 
 
 Developed By ,
